@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book>
+<title>Sample Story Book</title>
+<id>sample</id>
+<defaults>
+	<pgsize width="400" height="549" />
+	<font face="Arial" size="18" color="#FFFFFF" hoverColor="#ff0000" leading="5" letterSpacing="0" />
+	<txt x="30" y="30" width="355" align="left" />
+	<pgnums show="y" skip="-1" x="15" y="15" size="14" color="#FFFFFF" />
+</defaults>
+<covers globalImage="y" coverSizeDiff="10">
+	<front>
+		<en_au>
+            <txt x="10" y="80" align="center" size="32"  color="#FDE250" fontFace="Times"><![CDATA[<b>This is a sample</b><br /><b>story book</b>]]></txt>
+		</en_au>
+	</front>
+	<back>
+	</back>
+</covers>
+<pages>
+<page img="y">
+	<en_au>
+		<txt y="80" size="40" fontFace="times" align="center"><![CDATA[<b>This is a sample</b><br />story book]]></txt>
+	</en_au>
+</page>
+<page img="y">
+	<en_au>
+        <txt x="0" y="0" width="355" size="18"><![CDATA[Lorem ipsum dolor sit amet<br>consectetur adipiscing<br><br>Integer sit amet purus<br>quis ex mollis hendrerit vel sed.”]]></txt>
+	</en_au>
+</page>
+<page img="y">
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[Fusce vitae consectetur justo<br>et pellentesque lorem<br><br>Aenean vitae nunc sed mauris.<br><br>varius imperdiet eget eu risus.<br><br>Lorem ipsum dolor.]]></txt>
+		<txt x="260" y="295" fontFace="times" size="60" color="#5f5f5f"><![CDATA[<i>Lorem!</i>]]></txt>
+	</en_au>
+</page>
+<page img="y">
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[Proin ut aliquet libero<br><br>Maecenas varius quis ipsum<br><br>Nullam sollicitudin pulvinar ante vitae<br><br>Mauris sagittis ultricies ipsum<br><br>id cursus nisl volutpat eu]]></txt>
+	</en_au>
+</page>
+<page img="y">
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[Phasellus elementum dui nulla<br>nec sollicitudin leo lobortis eu<br><br>Fusce quis mauris nec sapien tempor<br><br>pretium vel id purus]]></txt>
+	</en_au>
+</page>
+<page img="y">
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[In molestie ultricies felis<br><br>sed ullamcorper sem dictum non]]></txt>
+	</en_au>
+</page>
+<page img="y">
+	<en_au>
+		<txt x="250" y="103" fontFace="times" size="60" color="#5f5f5f"><![CDATA[<i>Lorem!</i>]]></txt>
+	</en_au>
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[ Praesent non ornare diam<br><br>ac vestibulum sapien<br><br>Sed at lorem quis risus lacinia<br>viverra a sit amet odio]]></txt>
+	</en_au>
+</page>
+<page img="y">
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[Morbi dictum massa vel purus dictum mollis<br>Cum sociis natoque<br><br>penatibus et magnis dis parturient<br>montes<br><br>nascetur ridiculus mus<br>In eget tincidunt lorem]]></txt>
+	</en_au>
+</page>
+<page img="y">
+</page>
+<page img="y">
+	<en_au>
+		<txt x="30" y="30" width="355" size="18"><![CDATA[Donec aliquet<br>nunc nec facilisis volutpat<br>massa purus tincidunt purus]]></txt>
+	</en_au>
+</page>
+</pages>
+</book>
